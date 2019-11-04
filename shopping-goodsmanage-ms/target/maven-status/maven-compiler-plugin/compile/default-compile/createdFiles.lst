@@ -1,0 +1,7 @@
+cn\small\pig\App.class
+cn\small\pig\controller\SpecificationController.class
+cn\small\pig\controller\BrandController.class
+cn\small\pig\service\impl\BrandServiceImpl.class
+cn\small\pig\service\BrandService.class
+cn\small\pig\service\impl\SpecificationServiceImpl.class
+cn\small\pig\service\SpecificationService.class
